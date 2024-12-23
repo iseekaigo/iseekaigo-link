@@ -28,7 +28,7 @@ function App() {
       {/* Favicon */}
       <link
         rel="icon"
-        href="https://i.imgur.com/SU4rxQJ.png"
+        href="/alicia.png"
         type="image/x-icon"
       />
 
@@ -60,7 +60,7 @@ function App() {
 
         {/* Background Music */}
         <audio id="background-audio" loop hidden preload="auto">
-          <source src="/music/秘密の言葉.mp3" type="audio/mp3" />
+          <source src="/music/himitsu-no-kotoba-alya.mp3" type="audio/mp3" />
           Your browser does not support the audio element.
         </audio>
 
